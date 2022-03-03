@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.be0c45ef.css",
+    "main.js": "./static/js/main.baac1e46.js",
+    "static/media/banner2.png": "./static/media/banner2.0477cc0d503da4f4450a.png",
+    "static/media/projeto 6.png": "./static/media/projeto 6.796d8d286e0d1ff5efa6.png",
+    "static/media/projeto 3.png": "./static/media/projeto 3.40df3c0ee6e0181e224d.png",
+    "static/media/projeto 4.png": "./static/media/projeto 4.936624ab5e480318d4d1.png",
+    "static/media/projeto 1.png": "./static/media/projeto 1.c554d391d75f37ff7589.png",
+    "static/media/projeto 5.png": "./static/media/projeto 5.a852b23d1b7a761001e6.png",
+    "static/media/Foto.jpg": "./static/media/Foto.8f90353ffa49f3caf399.jpg",
+    "static/media/projeto 2.png": "./static/media/projeto 2.85f2bb0efc49796aeb13.png",
+    "static/media/Aleatória.jpg": "./static/media/Aleatória.d062cc886e8bb3923fc7.jpg",
+    "static/media/Linguagens.png": "./static/media/Linguagens.371e50c59b59d05794e9.png",
+    "static/media/Designer.png": "./static/media/Designer.dafc57555fa4367235eb.png",
+    "static/media/Experiencia.png": "./static/media/Experiencia.4db1042f158dfc36855f.png",
+    "static/media/Evoluçao.png": "./static/media/Evoluçao.ba0bbcb4a6784a64e8ad.png",
+    "static/media/OutrosConhecimentos.png": "./static/media/OutrosConhecimentos.2c8dc26a3b1bddbded3b.png",
+    "static/media/OqPossoDesenvolver.png": "./static/media/OqPossoDesenvolver.87fb6fefc4f026d40319.png",
+    "index.html": "./index.html",
+    "main.be0c45ef.css.map": "./static/css/main.be0c45ef.css.map",
+    "main.baac1e46.js.map": "./static/js/main.baac1e46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be0c45ef.css",
+    "static/js/main.baac1e46.js"
+  ]
+}
